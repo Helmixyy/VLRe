@@ -1,0 +1,10 @@
+path: E:/xianyudaizuo/bishe/bishe12_chepai/VehicleLicenseRecognition_yolo _v2/datasets/VehicleLicense
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 4
+names:
+- License_Plate
+- cars
+- motorcyle
+- truck
